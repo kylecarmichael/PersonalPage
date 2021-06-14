@@ -181,3 +181,39 @@ a:hover {
   margin-bottom: 0;
   padding-top: 3rem;
 }
+
+/* Fun Sections I may reuse
+
+.footer-link {
+  color: #7a9eb1;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  font-size: 1.2rem;
+
+}
+
+.cr-text {
+  color: #ffffff;
+  margin-bottom: 0;
+  padding-top: 3rem;
+}
+
+.butn {
+  -webkit-border-radius: 32;
+  -moz-border-radius: 32;
+  border-radius: 32px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #7a9eb1;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+hr {
+  border-style: dotted;
+  border-width: 0 0 1rem;
+  width: 12%;
+  border-color: #ffe1b6;
+}
+*/
